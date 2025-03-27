@@ -1,0 +1,6 @@
+[
+	{ "caption": "UMV AS_", "command": "update_minor_version" },
+	{ "caption": "UMV @date", "command": "update_date" },
+	{ "caption": "UMV @version", "command": "update_version" },
+	{ "caption": "UMV ALL", "command": "update_all" }
+]
